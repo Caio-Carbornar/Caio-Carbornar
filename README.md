@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Olá, eu sou Caio Carbornar  
 
-<!--
-**Caio-Carbornar/Caio-Carbornar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+💻 Desenvolvedor em aprendizado constante  
+🚀 Apaixonado por tecnologia, programação e inovação  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre Mim
+
+Atualmente estou cursando Engenharia de Software e desenvolvendo projetos voltados para:
+
+- Desenvolvimento Back-end
+- Banco de Dados
+- APIs
+
+Sempre buscando evoluir minhas habilidades e criar projetos que gerem impacto real.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,cs,python,mysql,git,github" />
+
+</div>
+
+---
+
+## 📚 Atualmente
+
+📖 Estudando Engenharia de Software  
+
+🧠 Aprendendo novas tecnologias todos os dias  
+
+🎯 Buscando oportunidades para ganhar experiência prática
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio-Carbornar&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Carbornar&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🌎 Onde me encontrar
+
+📧 Email: seuemail@email.com  
+
+💼 LinkedIn: https://linkedin.com/in/seulink  
+
+🐙 GitHub: https://github.com/seuusuario  
+
+---
+
+<div align="center">
+
+✨ Obrigado por visitar meu perfil ✨
+
+</div>
