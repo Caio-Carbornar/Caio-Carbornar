@@ -52,11 +52,11 @@ Sempre buscando evoluir minhas habilidades e criar projetos que gerem impacto re
 
 ## 🌎 Onde me encontrar
 
-📧 Email: seuemail@email.com  
+📧 Email: caiocarbornar06@gmail.com  
 
-💼 LinkedIn: https://linkedin.com/in/seulink  
+💼 LinkedIn: www.linkedin.com/in/caio-carbornar-612121261 
 
-🐙 GitHub: https://github.com/seuusuario  
+🐙 GitHub: https://github.com/Caio-Carbornar  
 
 ---
 
