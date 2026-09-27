@@ -22,7 +22,7 @@ Sempre buscando evoluir minhas habilidades e criar projetos que gerem impacto re
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,cs,python,mysql,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,git,github" />
 
 </div>
 
