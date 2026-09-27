@@ -38,18 +38,6 @@ Sempre buscando evoluir minhas habilidades e criar projetos que gerem impacto re
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio-Carbornar&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Carbornar&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 🌎 Onde me encontrar
 
 📧 Email: caiocarbornar06@gmail.com  
